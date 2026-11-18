@@ -1,8 +1,17 @@
 # Anderson Bastos
 
-\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0f172a,100:334155&text=Anderson%20Bastos&fontColor=ffffff&fontSize=45&fontAlignY=50&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=70&descSize=16](https://capsule-render.vercel.app/api?type=venom\&height=180\&color=0:0f172a,100:334155\&text=Anderson%20Bastos\&fontColor=ffffff\&fontSize=45\&fontAlignY=50\&desc=Software%20Developer%20%7C%20AI%20Enthusiast\&descAlignY=70\&descSize=16)" width="100%" /> \</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0f172a,100:334155&text=Anderson%20Bastos&fontColor=ffffff&fontSize=45&fontAlignY=50&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=70&descSize=16" width="100%" />
+</p>
 
-\<p align="center">   \<a href="[https://github.com/abastos08](https://github.com/abastos08)">     \<img src="[https://img.shields.io/badge/GitHub-abastos08-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-abastos08-181717?style=for-the-badge\&logo=github)" />   \</a>   \<a href="mailto\:hello\@andersonbastos.dev">     \<img src="[https://img.shields.io/badge/Email-Contact-64748b?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-64748b?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a> \</p>
+<p align="center">
+  <a href="https://github.com/abastos08">
+    <img src="https://img.shields.io/badge/GitHub-abastos08-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:hello@andersonbastos.dev">
+    <img src="https://img.shields.io/badge/Email-Contact-64748b?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -31,40 +40,55 @@ I believe the best way to learn programming is by building things.
 
 **Languages & Development**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=python,mysql,git,github,vscode](https://skillicons.dev/icons?i=python,mysql,git,github,vscode)" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
 **Currently exploring**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=sklearn,pytorch,postgres,docker](https://skillicons.dev/icons?i=sklearn,pytorch,postgres,docker)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,postgres,docker" />
+</p>
 
 ---
 
 ### `$ ls ./projects`
 
-| Project                                                               | Description                                                              |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [Analisador_Youtube](https://github.com/abastos08/Analisador_Youtube) | Python project focused on YouTube data and analysis.                     |
-| Gestor de Finanças                                                    | Personal finance management application developed with Python and MySQL. |
+| Project | Description |
+|---|---|
+| [Analisador_Youtube](https://github.com/abastos08/Analisador_Youtube) | Python project focused on YouTube data and analysis. |
+| Gestor de Finanças | Personal finance management application developed with Python and MySQL. |
 
 ---
 
 ### `$ github --stats`
 
-\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=abastos08&show_icons=true&theme=transparent&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=abastos08\&show_icons=true\&theme=transparent\&hide_border=true\&rank_icon=github)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=abastos08&layout=compact&theme=transparent&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=abastos08\&layout=compact\&theme=transparent\&hide_border=true)" /> \</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abastos08&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abastos08&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-\<p align="center">   \<img src="[https://github-readme-streak-stats-eight.vercel.app/?user=abastos08&theme=transparent&hide_border=true](https://github-readme-streak-stats-eight.vercel.app/?user=abastos08\&theme=transparent\&hide_border=true)" /> \</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abastos08&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
 ### `$ connect`
 
-\<p align="center">   \<a href="[https://github.com/abastos08](https://github.com/abastos08)">     \<img src="[https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge\&logo=github)" />   \</a>   \<a href="mailto\:hello\@andersonbastos.dev">     \<img src="[https://img.shields.io/badge/Email-Say%20Hello-64748b?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Say%20Hello-64748b?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a> \</p>
+<p align="center">
+  <a href="https://github.com/abastos08">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:hello@andersonbastos.dev">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-64748b?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=abastos08&color=64748b&style=flat-square&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=abastos08\&color=64748b\&style=flat-square\&label=PROFILE+VIEWS)" /> \</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abastos08&color=64748b&style=flat-square&label=PROFILE+VIEWS" />
+</p>
 
-\<p align="center">
-&#x20; \<i>"Building today what I want to understand tomorrow."\</i>
-\</p>
-# AndersonBastos
+<p align="center">
+  <i>"Building today what I want to understand tomorrow."</i>
+</p>
